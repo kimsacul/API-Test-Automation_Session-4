@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-Test-Automation_Session-4", "API-Test-Automation_Session-4.csproj", "{FA3B424C-49A2-4B59-9D6C-2F3DE0A5F1CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA3B424C-49A2-4B59-9D6C-2F3DE0A5F1CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3B424C-49A2-4B59-9D6C-2F3DE0A5F1CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3B424C-49A2-4B59-9D6C-2F3DE0A5F1CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3B424C-49A2-4B59-9D6C-2F3DE0A5F1CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {270FBC85-34DA-4BDB-80FD-0F515CE4FDCB}
+	EndGlobalSection
+EndGlobal
